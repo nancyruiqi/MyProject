@@ -1,0 +1,2580 @@
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 0.2
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 0.2 0.00295019
+PLAQ 0.2 0.00392885
+PLAQ 0.2 0.00251902
+PLAQ 0.2 0.0030517
+PLAQ 0.2 0.00391531
+PLAQ 0.2 0.00312061
+PLAQ 0.2 0.00416601
+PLAQ 0.2 0.00208578
+PLAQ 0.2 0.00390274
+PLAQ 0.2 0.00394379
+PLAQ 0.2 0.00567367
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 0.4
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 0.4 0.00863603
+PLAQ 0.4 0.00735731
+PLAQ 0.4 0.00791692
+PLAQ 0.4 0.00726059
+PLAQ 0.4 0.00665176
+PLAQ 0.4 0.0083461
+PLAQ 0.4 0.00744398
+PLAQ 0.4 0.00714883
+PLAQ 0.4 0.00807927
+PLAQ 0.4 0.00820539
+PLAQ 0.4 0.00821228
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 0.6
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 0.6 0.0122084
+PLAQ 0.6 0.0120577
+PLAQ 0.6 0.0116757
+PLAQ 0.6 0.0103928
+PLAQ 0.6 0.0119815
+PLAQ 0.6 0.0102953
+PLAQ 0.6 0.0131926
+PLAQ 0.6 0.0130734
+PLAQ 0.6 0.0119695
+PLAQ 0.6 0.01209
+PLAQ 0.6 0.0114698
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 0.8
+Saving output in file = 
+=============================================
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+Thermalization complete: 100 heatbath steps completed
+PLAQ 0.8 0.0169611
+PLAQ 0.8 0.0147793
+PLAQ 0.8 0.0159302
+PLAQ 0.8 0.0147553
+PLAQ 0.8 0.0157946
+PLAQ 0.8 0.0158981
+PLAQ 0.8 0.0156243
+PLAQ 0.8 0.0158787
+PLAQ 0.8 0.0164765
+PLAQ 0.8 0.0148318
+PLAQ 0.8 0.0155268
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 1
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 1 0.0192779
+PLAQ 1 0.0196641
+PLAQ 1 0.0198311
+PLAQ 1 0.0188663
+PLAQ 1 0.0194455
+PLAQ 1 0.019883
+PLAQ 1 0.0199645
+PLAQ 1 0.0197326
+PLAQ 1 0.0201912
+PLAQ 1 0.020256
+PLAQ 1 0.0201747
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 1.2
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 1.2 0.0239369
+PLAQ 1.2 0.0251902
+PLAQ 1.2 0.023901
+PLAQ 1.2 0.0239245
+PLAQ 1.2 0.024394
+PLAQ 1.2 0.0245393
+PLAQ 1.2 0.0249076
+PLAQ 1.2 0.0235051
+PLAQ 1.2 0.0240658
+PLAQ 1.2 0.0241195
+PLAQ 1.2 0.02415
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 1.4
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 1.4 0.0295686
+PLAQ 1.4 0.027364
+PLAQ 1.4 0.0272057
+PLAQ 1.4 0.0283964
+PLAQ 1.4 0.0286186
+PLAQ 1.4 0.02839
+PLAQ 1.4 0.0285633
+PLAQ 1.4 0.026427
+PLAQ 1.4 0.0267078
+PLAQ 1.4 0.0265148
+PLAQ 1.4 0.0266679
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 1.6
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 1.6 0.03025
+PLAQ 1.6 0.0330923
+PLAQ 1.6 0.0324689
+PLAQ 1.6 0.0320812
+PLAQ 1.6 0.0320088
+PLAQ 1.6 0.0333277
+PLAQ 1.6 0.0319375
+PLAQ 1.6 0.0334386
+PLAQ 1.6 0.0324476
+PLAQ 1.6 0.0313057
+PLAQ 1.6 0.0304955
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 1.8
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 1.8 0.0350934
+PLAQ 1.8 0.0361369
+PLAQ 1.8 0.0369907
+PLAQ 1.8 0.0355228
+PLAQ 1.8 0.0364039
+PLAQ 1.8 0.0364035
+PLAQ 1.8 0.0365342
+PLAQ 1.8 0.036631
+PLAQ 1.8 0.0364081
+PLAQ 1.8 0.0362006
+PLAQ 1.8 0.0360871
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 2
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 2 0.0398781
+PLAQ 2 0.0393524
+PLAQ 2 0.0389691
+PLAQ 2 0.0392098
+PLAQ 2 0.0398831
+PLAQ 2 0.0398524
+PLAQ 2 0.0405977
+PLAQ 2 0.0410632
+PLAQ 2 0.038578
+PLAQ 2 0.0396162
+PLAQ 2 0.038828
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 14
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 14 0.31283
+PLAQ 14 0.313018
+PLAQ 14 0.314083
+PLAQ 14 0.31435
+PLAQ 14 0.312459
+PLAQ 14 0.312588
+PLAQ 14 0.314165
+PLAQ 14 0.313837
+PLAQ 14 0.315712
+PLAQ 14 0.313303
+PLAQ 14 0.314127
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 14.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 14.5 0.329322
+PLAQ 14.5 0.329914
+PLAQ 14.5 0.330419
+PLAQ 14.5 0.328647
+PLAQ 14.5 0.328044
+PLAQ 14.5 0.328075
+PLAQ 14.5 0.331669
+PLAQ 14.5 0.331054
+PLAQ 14.5 0.330564
+PLAQ 14.5 0.330273
+PLAQ 14.5 0.329497
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 15
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 15 0.346514
+PLAQ 15 0.347093
+PLAQ 15 0.347623
+PLAQ 15 0.348418
+PLAQ 15 0.345619
+PLAQ 15 0.347208
+PLAQ 15 0.348011
+PLAQ 15 0.348282
+PLAQ 15 0.347615
+PLAQ 15 0.347379
+PLAQ 15 0.349685
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 15.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 15.5 0.367643
+PLAQ 15.5 0.366739
+PLAQ 15.5 0.369681
+PLAQ 15.5 0.368346
+PLAQ 15.5 0.366558
+PLAQ 15.5 0.367929
+PLAQ 15.5 0.368482
+PLAQ 15.5 0.368258
+PLAQ 15.5 0.3672
+PLAQ 15.5 0.367715
+PLAQ 15.5 0.366986
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 16
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 16 0.393413
+PLAQ 16 0.391681
+PLAQ 16 0.393013
+PLAQ 16 0.393082
+PLAQ 16 0.392067
+PLAQ 16 0.392439
+PLAQ 16 0.393413
+PLAQ 16 0.392234
+PLAQ 16 0.393542
+PLAQ 16 0.39318
+PLAQ 16 0.393559
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 16.5
+Saving output in file = 
+=============================================
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+Thermalization complete: 100 heatbath steps completed
+PLAQ 16.5 0.478596
+PLAQ 16.5 0.476085
+PLAQ 16.5 0.474236
+PLAQ 16.5 0.472193
+PLAQ 16.5 0.470544
+PLAQ 16.5 0.469069
+PLAQ 16.5 0.466179
+PLAQ 16.5 0.46627
+PLAQ 16.5 0.462485
+PLAQ 16.5 0.457594
+PLAQ 16.5 0.455335
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 17
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 17 0.54822
+PLAQ 17 0.547679
+PLAQ 17 0.548781
+PLAQ 17 0.550727
+PLAQ 17 0.547846
+PLAQ 17 0.548363
+PLAQ 17 0.548715
+PLAQ 17 0.550618
+PLAQ 17 0.548677
+PLAQ 17 0.547154
+PLAQ 17 0.547356
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 17.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 17.5 0.572415
+PLAQ 17.5 0.572105
+PLAQ 17.5 0.571464
+PLAQ 17.5 0.574297
+PLAQ 17.5 0.571539
+PLAQ 17.5 0.569902
+PLAQ 17.5 0.570323
+PLAQ 17.5 0.573733
+PLAQ 17.5 0.574325
+PLAQ 17.5 0.573535
+PLAQ 17.5 0.571134
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 18
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 18 0.591823
+PLAQ 18 0.590834
+PLAQ 18 0.592767
+PLAQ 18 0.591957
+PLAQ 18 0.593171
+PLAQ 18 0.588483
+PLAQ 18 0.591049
+PLAQ 18 0.591912
+PLAQ 18 0.591017
+PLAQ 18 0.590387
+PLAQ 18 0.591594
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 18.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 18.5 0.607791
+PLAQ 18.5 0.607966
+PLAQ 18.5 0.607548
+PLAQ 18.5 0.609885
+PLAQ 18.5 0.607057
+PLAQ 18.5 0.605121
+PLAQ 18.5 0.607468
+PLAQ 18.5 0.609317
+PLAQ 18.5 0.609011
+PLAQ 18.5 0.607323
+PLAQ 18.5 0.605228
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 19
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 19 0.622761
+PLAQ 19 0.62283
+PLAQ 19 0.624005
+PLAQ 19 0.624675
+PLAQ 19 0.622268
+PLAQ 19 0.620184
+PLAQ 19 0.620942
+PLAQ 19 0.622118
+PLAQ 19 0.622967
+PLAQ 19 0.622101
+PLAQ 19 0.622252
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 19.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 19.5 0.634886
+PLAQ 19.5 0.636005
+PLAQ 19.5 0.637964
+PLAQ 19.5 0.637243
+PLAQ 19.5 0.636042
+PLAQ 19.5 0.633462
+PLAQ 19.5 0.634811
+PLAQ 19.5 0.636265
+PLAQ 19.5 0.637534
+PLAQ 19.5 0.636597
+PLAQ 19.5 0.636209
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 20
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 20 0.647048
+PLAQ 20 0.648018
+PLAQ 20 0.648467
+PLAQ 20 0.649839
+PLAQ 20 0.648115
+PLAQ 20 0.646016
+PLAQ 20 0.648067
+PLAQ 20 0.64905
+PLAQ 20 0.649712
+PLAQ 20 0.649621
+PLAQ 20 0.647616
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 20
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 20 0.647048
+PLAQ 20 0.648018
+PLAQ 20 0.648467
+PLAQ 20 0.649839
+PLAQ 20 0.648115
+PLAQ 20 0.646016
+PLAQ 20 0.648067
+PLAQ 20 0.64905
+PLAQ 20 0.649712
+PLAQ 20 0.649621
+PLAQ 20 0.647616
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 20.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 20.5 0.658129
+PLAQ 20.5 0.659353
+PLAQ 20.5 0.658756
+PLAQ 20.5 0.659909
+PLAQ 20.5 0.659854
+PLAQ 20.5 0.657862
+PLAQ 20.5 0.658697
+PLAQ 20.5 0.659605
+PLAQ 20.5 0.65968
+PLAQ 20.5 0.65937
+PLAQ 20.5 0.658338
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 21
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 21 0.669263
+PLAQ 21 0.669691
+PLAQ 21 0.669281
+PLAQ 21 0.670292
+PLAQ 21 0.669438
+PLAQ 21 0.667629
+PLAQ 21 0.668514
+PLAQ 21 0.670255
+PLAQ 21 0.670212
+PLAQ 21 0.670613
+PLAQ 21 0.668721
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 21.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 21.5 0.678076
+PLAQ 21.5 0.678982
+PLAQ 21.5 0.679447
+PLAQ 21.5 0.680204
+PLAQ 21.5 0.679262
+PLAQ 21.5 0.677551
+PLAQ 21.5 0.67934
+PLAQ 21.5 0.678524
+PLAQ 21.5 0.680475
+PLAQ 21.5 0.679835
+PLAQ 21.5 0.679045
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 22
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 22 0.68781
+PLAQ 22 0.686864
+PLAQ 22 0.688088
+PLAQ 22 0.690229
+PLAQ 22 0.688481
+PLAQ 22 0.68743
+PLAQ 22 0.68846
+PLAQ 22 0.688572
+PLAQ 22 0.690099
+PLAQ 22 0.688355
+PLAQ 22 0.687887
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 22.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 22.5 0.696707
+PLAQ 22.5 0.696965
+PLAQ 22.5 0.696545
+PLAQ 22.5 0.696497
+PLAQ 22.5 0.696857
+PLAQ 22.5 0.69552
+PLAQ 22.5 0.695498
+PLAQ 22.5 0.695644
+PLAQ 22.5 0.697393
+PLAQ 22.5 0.696389
+PLAQ 22.5 0.697009
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 23
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 23 0.703061
+PLAQ 23 0.703442
+PLAQ 23 0.703522
+PLAQ 23 0.705869
+PLAQ 23 0.704698
+PLAQ 23 0.703309
+PLAQ 23 0.704401
+PLAQ 23 0.70487
+PLAQ 23 0.705398
+PLAQ 23 0.70483
+PLAQ 23 0.705111
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 23.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 23.5 0.712736
+PLAQ 23.5 0.712015
+PLAQ 23.5 0.711348
+PLAQ 23.5 0.713841
+PLAQ 23.5 0.711674
+PLAQ 23.5 0.710179
+PLAQ 23.5 0.711585
+PLAQ 23.5 0.711968
+PLAQ 23.5 0.712189
+PLAQ 23.5 0.710811
+PLAQ 23.5 0.712161
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 24
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 24 0.718327
+PLAQ 24 0.718873
+PLAQ 24 0.719322
+PLAQ 24 0.719524
+PLAQ 24 0.718524
+PLAQ 24 0.717794
+PLAQ 24 0.718525
+PLAQ 24 0.719228
+PLAQ 24 0.719276
+PLAQ 24 0.718651
+PLAQ 24 0.71882
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 24.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 24.5 0.725582
+PLAQ 24.5 0.726055
+PLAQ 24.5 0.724835
+PLAQ 24.5 0.727098
+PLAQ 24.5 0.725468
+PLAQ 24.5 0.725987
+PLAQ 24.5 0.725735
+PLAQ 24.5 0.72578
+PLAQ 24.5 0.725918
+PLAQ 24.5 0.727004
+PLAQ 24.5 0.726273
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 25
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 25 0.732412
+PLAQ 25 0.733076
+PLAQ 25 0.731371
+PLAQ 25 0.73267
+PLAQ 25 0.731689
+PLAQ 25 0.731989
+PLAQ 25 0.731598
+PLAQ 25 0.733355
+PLAQ 25 0.733074
+PLAQ 25 0.732545
+PLAQ 25 0.732255
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 25.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 25.5 0.738185
+PLAQ 25.5 0.737608
+PLAQ 25.5 0.737171
+PLAQ 25.5 0.739457
+PLAQ 25.5 0.737582
+PLAQ 25.5 0.738493
+PLAQ 25.5 0.737924
+PLAQ 25.5 0.738842
+PLAQ 25.5 0.739211
+PLAQ 25.5 0.73859
+PLAQ 25.5 0.738729
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 26
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 26 0.743831
+PLAQ 26 0.744561
+PLAQ 26 0.743724
+PLAQ 26 0.744945
+PLAQ 26 0.743575
+PLAQ 26 0.744021
+PLAQ 26 0.743406
+PLAQ 26 0.744761
+PLAQ 26 0.744668
+PLAQ 26 0.744253
+PLAQ 26 0.744411
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 26.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 26.5 0.749301
+PLAQ 26.5 0.750052
+PLAQ 26.5 0.749403
+PLAQ 26.5 0.75083
+PLAQ 26.5 0.74875
+PLAQ 26.5 0.749605
+PLAQ 26.5 0.749341
+PLAQ 26.5 0.750235
+PLAQ 26.5 0.750527
+PLAQ 26.5 0.750327
+PLAQ 26.5 0.750113
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 27
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 27 0.754986
+PLAQ 27 0.755479
+PLAQ 27 0.754519
+PLAQ 27 0.756473
+PLAQ 27 0.754962
+PLAQ 27 0.755111
+PLAQ 27 0.754449
+PLAQ 27 0.756134
+PLAQ 27 0.755734
+PLAQ 27 0.754623
+PLAQ 27 0.755275
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 27.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 27.5 0.759935
+PLAQ 27.5 0.760487
+PLAQ 27.5 0.759554
+PLAQ 27.5 0.760131
+PLAQ 27.5 0.759414
+PLAQ 27.5 0.759428
+PLAQ 27.5 0.759601
+PLAQ 27.5 0.760525
+PLAQ 27.5 0.761009
+PLAQ 27.5 0.760306
+PLAQ 27.5 0.761143
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 28
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 28 0.764157
+PLAQ 28 0.765553
+PLAQ 28 0.764665
+PLAQ 28 0.766046
+PLAQ 28 0.764055
+PLAQ 28 0.764458
+PLAQ 28 0.764268
+PLAQ 28 0.765277
+PLAQ 28 0.765588
+PLAQ 28 0.765016
+PLAQ 28 0.766352
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 28.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 28.5 0.769267
+PLAQ 28.5 0.770557
+PLAQ 28.5 0.768217
+PLAQ 28.5 0.770461
+PLAQ 28.5 0.769057
+PLAQ 28.5 0.768692
+PLAQ 28.5 0.769373
+PLAQ 28.5 0.769991
+PLAQ 28.5 0.770218
+PLAQ 28.5 0.769709
+PLAQ 28.5 0.769857
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 29
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 29 0.774584
+PLAQ 29 0.774633
+PLAQ 29 0.773561
+PLAQ 29 0.775014
+PLAQ 29 0.773497
+PLAQ 29 0.773855
+PLAQ 29 0.773805
+PLAQ 29 0.774603
+PLAQ 29 0.77414
+PLAQ 29 0.773958
+PLAQ 29 0.774247
+MPI PROCESS 0 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 1 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 2 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 5 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 6 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 7 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 3 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 4 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 8 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 9 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 10 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 11 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 12 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 13 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 14 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 15 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 16 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 17 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 18 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 19 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 20 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 21 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 22 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 23 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 24 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 25 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 26 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 27 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 28 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 29 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 30 of 32 STARTING ON nexus2.serv.pacific.edu
+MPI PROCESS 31 of 32 STARTING ON nexus2.serv.pacific.edu
+<PROGRAM>
+<open_wormholes>
+<head>
+*************************************************
+* Starting [Matrix Distributed Processing]      *
+* created by Massimo Di Pierro                  *
+* copyrighted by www.metacryption.com           *
+*************************************************
+</open_wormholes>
+=============================================
+Number of colors = 5
+Lattice size = 8x8x8x8
+Creating a cold configuration
+Performing Heatbath updates at beta = 29.5
+Saving output in file = 
+=============================================
+Thermalization complete: 100 heatbath steps completed
+PLAQ 29.5 0.778315
+PLAQ 29.5 0.7789
+PLAQ 29.5 0.77827
+PLAQ 29.5 0.778106
+PLAQ 29.5 0.778179
+PLAQ 29.5 0.778294
+PLAQ 29.5 0.777712
+PLAQ 29.5 0.778766
+PLAQ 29.5 0.77886
+PLAQ 29.5 0.778649
+PLAQ 29.5 0.779299
